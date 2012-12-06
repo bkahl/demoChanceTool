@@ -1,2 +1,3 @@
-prod-theme
-*.DS_Store
+/prod-theme
+/chance/.DS_Store
+/.DS_Store
