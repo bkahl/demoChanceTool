@@ -2,6 +2,8 @@
 
 demoChanceTool is a simple enviornment setup with your basic file structure including index.html, /js, and /css, that shows how the Ruby Chance tool works.  Chance is a Ruby Build tool that automates image sprites and merges all CSS files into one master/theme.css file. 
 
+You can look at the root Chance code here: https://github.com/joshholt/Chance
+
 ## How to Install?
 Either clone this project or download the zip file.
 
@@ -10,13 +12,13 @@ Either clone this project or download the zip file.
 You'll need to do the following steps to get the demoChanceTool to work you'll need to run the following 3 commands to update RMagick gem.
 
 ```html
-brew remove imagemagick
+$ brew remove imagemagick
 ```
 ```html
-brew install imagemagick
+$ brew install imagemagick
 ```
 ```html
-sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/
+$ sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/
 ```
 
 ### Basic Setup
@@ -49,6 +51,8 @@ Open up terminal and run the following commands to get chance to output your mas
 
 ```html
 $ cd demoChanceTool/chance/
+```
+```html
 $ ./demo
 ```
 
