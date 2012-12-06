@@ -1,0 +1,29 @@
+.image-1{
+	width: 400px;
+	height: 300px;
+	background: sprite("images/400x300/image-1.png");
+}
+
+.image-2{
+	width: 400px;
+	height: 300px;
+	background: sprite("images/400x300/image-2.png");
+}
+
+.image-3{
+	width: 400px;
+	height: 300px;
+	background: sprite("images/400x300/image-3.png");
+}
+
+.image-4{
+	width: 400px;
+	height: 300px;
+	background: sprite("images/400x300/image-4.png");
+}
+
+.image-5{
+	width: 400px;
+	height: 300px;
+	background: sprite("images/400x300/image-5.png");
+}

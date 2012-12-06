@@ -1,0 +1,1 @@
+ruby chance.rb -i ~/Desktop/Brad\ Kahl/GIT/demoChanceTool/theme -o ~/Desktop/Brad\ Kahl/GIT/demoChanceTool/prod-theme --prefer-smaller-download
