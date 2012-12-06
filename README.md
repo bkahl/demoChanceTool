@@ -2,7 +2,7 @@
 
 demoChanceTool is a simple enviornment setup with your basic file structure including index.html, /js, and /css, that shows how the Ruby Chance tool works.  Chance is a Ruby Build tool that automates image sprites and merges all CSS files into one master/theme.css file. 
 
-You can look at the root Chance code here: https://github.com/joshholt/Chance
+You can look at the original Chance code developed by Josh Holt here: https://github.com/joshholt/Chance
 
 ## How to Install?
 Either clone this project or download the zip file.
